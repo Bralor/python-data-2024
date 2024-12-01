@@ -1,0 +1,6 @@
+customer_id;first_name;last_name;phone;email
+11;Matous;Holinka;`+420777666555;matous@matousholinka.com
+12;Marek;Parek;`+420777434111;marek.parek@gmail.com
+13;Petr;Svetr;`+420777333111;petr@svetr.com
+14;Alice;Svobodova;`+420777200300;svobodova.a@email.cz
+15;Tereza;Novakova;`+420777608080;novakova_terka@seznam.cz
