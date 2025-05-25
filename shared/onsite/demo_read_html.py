@@ -9,5 +9,5 @@ if __name__ == "__main__":
     print(
             read_table(
                 'https://simple.wikipedia.org/wiki/List_of_U.S._states'
-        )[0].head(10)
+        )[0].head(6)
     )
